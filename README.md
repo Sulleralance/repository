@@ -1,3 +1,3 @@
-# repository
-This is my first repository
+# Repository
 Hello Goodwall
+This is my coding
